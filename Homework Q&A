@@ -28,7 +28,7 @@ Composition and Aggregation
 When objects are parts of another object
 
 
-Composition is when an object is made up
+
 
 7When would you use composition? Provide a simple example in Java.
 When we want an object to be part of another object 
